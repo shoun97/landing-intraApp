@@ -4,7 +4,7 @@ const express = require('express');
 const hbs = require('hbs');
 const app = express();
 const port = process.env.PORT;
-let nombre = 'IntraLabs Ltda. @MIUC/JEHU/JOAB/JEZA'
+let nombre = 'IntraLabs Ltda.'
 
 
 
